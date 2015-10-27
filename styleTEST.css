@@ -1,0 +1,71 @@
+body{
+    background-color: #EEE;
+    font-family: Helvetica, Arial, sans-serif;
+    background-image: url(bildeBANNER.jpg);
+    background-size: 100% 100%;
+}
+
+a {
+    text-decoration: none;
+    color: azure;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+#container { 
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 
+}
+
+#header {
+    
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+    width: 800px;
+    height: 50px;
+    position:relative;
+    
+}
+
+
+
+#content {
+    padding: 10px; 
+}
+
+#nav {
+    width: 180px;
+    float: left;
+}
+
+#nav.selected {
+    font-weight: bold;
+}
+
+#nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+#main {
+    width: 500px;
+    float:left
+    
+}
+
+#footer {
+    clear: both;
+    padding: 10px;
+    background-color:aquamarine;
+    text-align: right;
+    
+}
+
+#nav.selected {
+    font-weight: bold;
+}
