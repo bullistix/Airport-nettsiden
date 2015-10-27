@@ -1,6 +1,10 @@
 body{
     background-color: #EEE;
+<<<<<<< HEAD
     font-family: myriad-pro,Helvetica, Arial, sans-serif;
+=======
+    font-family: Helvetica, Arial, sans-serif;
+>>>>>>> origin/master
     background-image: url("/images/banner.jpg");
     background-size: 100% 100%;
 }
